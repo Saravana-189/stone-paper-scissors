@@ -1,0 +1,23 @@
+#game{
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: aqua;
+    text-align: center;
+}
+.btn{
+    line-height: 40px;
+    width: 150px;
+    border: none;
+    background-color: antiquewhite;
+}
+#playertext{
+    color: red;
+}
+#computertext{
+    color: blue;
+}
+#resulttext{
+    color:green;
+}
